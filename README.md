@@ -30,15 +30,16 @@ In no particular order (but not-so-secretly alphabetical):
 - Game Development (Narrative & Game Design)
 
 ## Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="32" alt="Vim"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="32" alt="Neovim"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker"/>
-</p>
+Backend: Javascript, Typescript, NodeJS, Express, Fastify, Bun, Jest, Supertest, Docker
+
+Frontend: Javascript, Typescript, React, Vite, NodeJS, JSON
+
+Databases: MySQL, SQLite, MongoDB, Prisma
+
+Development Practices: Agile, Scrum, Kanban, TDD
+
+Game Development: Unreal, Unity, Godot, Ink, Twine
+
+AI: Copilot, Claude Code, ChatGPT
+
+Favorite Languages: C/C++
